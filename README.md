@@ -71,7 +71,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 
 Feel free to connect with me for collaborations, tech discussions, or if you're interested in any of my projects.
 
-- **📧 Email**: [your-email@example.com](mailto:your-email@example.com)
+- **📧 Email**: [your-email@example.com](mailto:anshulsingh.pvt@gmail.com)
 - **🔗 LinkedIn**: [Anshul Singh](https://www.linkedin.com/in/anshulsingh/)
 - **🌐 Portfolio**: [www.anshulsingh.dev](https://www.anshulsingh.dev)
 
