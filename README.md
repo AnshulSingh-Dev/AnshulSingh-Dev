@@ -19,6 +19,10 @@ I'm always curious about how things work and enjoy solving problems using techno
 
 I am proficient with a wide variety of tools and technologies to build modern and efficient applications:
 
+Languages and Tools:
+
+appwrite arduino aws bootstrap c cplusplus css3 dart figma firebase flutter git html5 javascript mongodb mysql nextjs nodejs python react sass swift tailwind typescript
+
 #### **Frontend Development**:
 - **React.js**, **TailwindCSS**, **HTML5**, **CSS3**, **JavaScript (ES6+)**
 - **Figma** (UI/UX design)
@@ -50,6 +54,8 @@ Here’s a snapshot of my GitHub activity and contributions:
    - **Tech Stack**: React.js, TailwindCSS, JavaScript.
 
    ![FoodDelight Project](https://via.placeholder.com/600x300.png?text=FoodDelight+Web+App)
+![Image Alt Text](https://github.com/your-username/your-repository/raw/main/path/to/your/image.jpg)
+
 
 2. **[MorseConverter](https://github.com/AnshulSingh-Dev/MorseConverter)**:
    - A tool that converts text into Morse code and vice-versa.
