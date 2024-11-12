@@ -23,8 +23,7 @@ I am proficient with a wide variety of tools and technologies to build modern an
 - **Figma** (UI/UX design)
 
 #### **Backend Development**:
-- **Node.js**, **Express.js**, **GraphQL**
-- **MongoDB**, **MySQL**, **Firebase**
+- **Node.js**, **MySQL**
 
 #### **Version Control & Collaboration**:
 - **Git**, **GitHub**, **GitLab**
@@ -40,7 +39,6 @@ I am proficient with a wide variety of tools and technologies to build modern an
 ### 📈 **GitHub Stats**:
 Here’s a snapshot of my GitHub activity and contributions:
 
-![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshulSingh-Dev&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=blueberry)
 
 ---
 
@@ -71,7 +69,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 
 Feel free to connect with me for collaborations, tech discussions, or if you're interested in any of my projects.
 
-- **📧 Email**: [your-email@example.com](mailto:anshulsingh.pvt@gmail.com)
+- **📧 Email**: [anshulsingh.pvt@gmail.com](mailto:anshulsingh.pvt@gmail.com)
 - **🔗 LinkedIn**: [Anshul Singh](https://www.linkedin.com/in/anshulsingh/)
 - **🌐 Portfolio**: [www.anshulsingh.dev](https://www.anshulsingh.dev)
 
@@ -79,10 +77,10 @@ Feel free to connect with me for collaborations, tech discussions, or if you're 
 
 ### 🔧 **Professional Workflow**:
 My workflow combines a range of tools to ensure the highest quality code:
-- **Development Tools**: VS Code, Postman, Docker
+- **Development Tools**: VS Code
 - **Design & Prototyping**: Figma, Adobe XD, Sketch
 - **Testing**: Jest, Cypress, Mocha
-- **Collaboration**: Slack, Trello, Jira
+- **Collaboration**: Jira
 
 ---
 
