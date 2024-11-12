@@ -20,10 +20,11 @@ I am proficient with a wide variety of tools and technologies to build modern an
 
 #### **Frontend Development**:
 - **React.js**, **TailwindCSS**, **HTML5**, **CSS3**, **JavaScript (ES6+)**
-
+- **Figma** (UI/UX design)
 
 #### **Backend Development**:
-- **Node.js**, **MySQL**
+- **Node.js**, **Express.js**, **GraphQL**
+- **MongoDB**, **MySQL**, **Firebase**
 
 #### **Version Control & Collaboration**:
 - **Git**, **GitHub**, **GitLab**
@@ -49,10 +50,13 @@ Here’s a snapshot of my GitHub activity and contributions:
    - A real-time food ordering web app that fetches restaurant data using live APIs.
    - **Tech Stack**: React.js, TailwindCSS, JavaScript.
 
+   ![FoodDelight Project](https://via.placeholder.com/600x300.png?text=FoodDelight+Web+App)
 
 2. **[MorseConverter](https://github.com/AnshulSingh-Dev/MorseConverter)**:
    - A tool that converts text into Morse code and vice-versa.
    - **Tech Stack**: React.js, TailwindCSS, JavaScript.
+
+   ![MorseConverter](https://via.placeholder.com/600x300.png?text=Morse+Code+Converter)
 
 ---
 
@@ -67,15 +71,15 @@ Here’s a snapshot of my GitHub activity and contributions:
 
 Feel free to connect with me for collaborations, tech discussions, or if you're interested in any of my projects.
 
-- **📧 Email**: anshulsingh.pvt@gmail.com
-- **🔗 LinkedIn**: https://www.linkedin.com/in/anshulsingh
-- **🌐 Portfolio**: 
+- **📧 Email**: [your-email@example.com](mailto:your-email@example.com)
+- **🔗 LinkedIn**: [Anshul Singh](https://www.linkedin.com/in/anshulsingh/)
+- **🌐 Portfolio**: [www.anshulsingh.dev](https://www.anshulsingh.dev)
 
 ---
 
 ### 🔧 **Professional Workflow**:
 My workflow combines a range of tools to ensure the highest quality code:
-- **Development Tools**: VS Code
+- **Development Tools**: VS Code, Postman, Docker
 - **Design & Prototyping**: Figma, Adobe XD, Sketch
 - **Testing**: Jest, Cypress, Mocha
 - **Collaboration**: Slack, Trello, Jira
