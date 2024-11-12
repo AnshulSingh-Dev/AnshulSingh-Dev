@@ -19,10 +19,6 @@ I'm always curious about how things work and enjoy solving problems using techno
 
 I am proficient with a wide variety of tools and technologies to build modern and efficient applications:
 
-Languages and Tools:
-
-appwrite arduino aws bootstrap c cplusplus css3 dart figma firebase flutter git html5 javascript mongodb mysql nextjs nodejs python react sass swift tailwind typescript
-
 #### **Frontend Development**:
 - **React.js**, **TailwindCSS**, **HTML5**, **CSS3**, **JavaScript (ES6+)**
 - **Figma** (UI/UX design)
@@ -43,6 +39,9 @@ appwrite arduino aws bootstrap c cplusplus css3 dart figma firebase flutter git 
 
 ### 📈 **GitHub Stats**:
 Here’s a snapshot of my GitHub activity and contributions:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSingh-Dev&hide=html&layout=compact)
+
 
 
 ---
