@@ -82,9 +82,14 @@ Here’s a snapshot of my GitHub activity and contributions:
 
 Feel free to connect with me for collaborations, tech discussions, or if you're interested in any of my projects.
 
-- **📧 Email**: [anshulsingh.pvt@gmail.com](mailto:anshulsingh.pvt@gmail.com)
-- **🔗 LinkedIn**: [Anshul Singh](https://www.linkedin.com/in/anshulsingh/)
 - **🌐 Portfolio**: [www.anshulsingh.dev](https://www.anshulsingh.dev)
+-   
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.anshulsingh.dev)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anshulsingh0519)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anshul.singh.official/)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https:://www.anshulsingh.pvt@gmail.com)
+
 
 ---
 
