@@ -20,14 +20,6 @@ I'm always curious about how things work and enjoy solving problems using techno
 I am proficient with a wide variety of tools and technologies to build modern and efficient applications:
 
 ### 🔧 Technologies I Use:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 #### **Frontend Development**:
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -37,17 +29,16 @@ I am proficient with a wide variety of tools and technologies to build modern an
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### **Backend Development**:
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/69/Node.js_logo.svg)
-- ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/01/MySQL_Logo_2013.svg)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### **Version Control & Collaboration**:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### **Deployment & Hosting**:
-- ![Netlify](https://upload.wikimedia.org/wikipedia/commons/9/96/Netlify_logo.svg)
-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/6/60/Amazon_Web_Services_Logo.svg)
-
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+- ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 #### **CI/CD**:
 - **GitHub Actions**, **Jenkins**
 
