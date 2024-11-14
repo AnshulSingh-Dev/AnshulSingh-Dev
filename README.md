@@ -82,7 +82,7 @@ Here’s a snapshot of my GitHub activity and contributions:
 
 Feel free to connect with me for collaborations, tech discussions, or if you're interested in any of my projects.
 
-- **🌐 Portfolio**: [www.anshulsingh.dev](https://www.anshulsingh.dev)
+- **🌐 Portfolio**: [www.anshulsingh.dev]
 
 - [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https:://www.anshulsingh.pvt@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulsingh0519)
