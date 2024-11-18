@@ -95,7 +95,7 @@ Feel free to connect with me for collaborations, tech discussions, or if you're 
 ### 🔧 **Professional Workflow**:
 My workflow combines a range of tools to ensure the highest quality code:
 - **Development Tools**: VS Code
-- **Design & Prototyping**: Figma, Adobe XD, Sketch
+- **Design & Prototyping**: Figma
 - **Testing**: Jest, Cypress, Mocha
 - **Collaboration**: Jira
 
