@@ -1,5 +1,5 @@
 [![An image of @anshul190's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshul190)](https://holopin.io/@anshulsingh-dev)
-# 👋 **Hello, I'm @AnshulSingh-Dev**
+# 👋 **Hello, I'm Anshul Singh**
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who thrives on solving complex challenges and building efficient, scalable, and user-friendly web applications. I love experimenting with new technologies and aim to deliver clean, maintainable code that makes a meaningful impact.
 
